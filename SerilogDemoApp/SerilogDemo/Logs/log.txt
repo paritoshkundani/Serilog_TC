@@ -1,0 +1,310 @@
+01/26/2022 06:43:22 Application starting up
+01/26/2022 06:43:28 You requested the index page
+01/26/2022 06:43:29 The value of i is 0
+01/26/2022 06:43:29 The value of i is 1
+01/26/2022 06:43:29 The value of i is 2
+01/26/2022 06:43:29 The value of i is 3
+01/26/2022 06:43:29 The value of i is 4
+01/26/2022 06:43:29 The value of i is 5
+01/26/2022 06:43:29 The value of i is 6
+01/26/2022 06:43:29 The value of i is 7
+01/26/2022 06:43:29 The value of i is 8
+01/26/2022 06:43:29 The value of i is 9
+01/26/2022 06:43:29 The value of i is 10
+01/26/2022 06:43:29 The value of i is 11
+01/26/2022 06:43:29 The value of i is 12
+01/26/2022 06:43:29 The value of i is 13
+01/26/2022 06:43:29 The value of i is 14
+01/26/2022 06:43:29 The value of i is 15
+01/26/2022 06:43:29 The value of i is 16
+01/26/2022 06:43:29 The value of i is 17
+01/26/2022 06:43:29 The value of i is 18
+01/26/2022 06:43:29 The value of i is 19
+01/26/2022 06:43:29 The value of i is 20
+01/26/2022 06:43:29 The value of i is 21
+01/26/2022 06:43:29 The value of i is 22
+01/26/2022 06:43:29 The value of i is 23
+01/26/2022 06:43:29 The value of i is 24
+01/26/2022 06:43:29 The value of i is 25
+01/26/2022 06:43:29 The value of i is 26
+01/26/2022 06:43:29 The value of i is 27
+01/26/2022 06:43:29 The value of i is 28
+01/26/2022 06:43:29 The value of i is 29
+01/26/2022 06:43:29 The value of i is 30
+01/26/2022 06:43:29 The value of i is 31
+01/26/2022 06:43:29 The value of i is 32
+01/26/2022 06:43:29 The value of i is 33
+01/26/2022 06:43:29 The value of i is 34
+01/26/2022 06:43:29 The value of i is 35
+01/26/2022 06:43:29 The value of i is 36
+01/26/2022 06:43:29 The value of i is 37
+01/26/2022 06:43:29 The value of i is 38
+01/26/2022 06:43:29 The value of i is 39
+01/26/2022 06:43:29 The value of i is 40
+01/26/2022 06:43:29 The value of i is 41
+01/26/2022 06:43:29 The value of i is 42
+01/26/2022 06:43:29 The value of i is 43
+01/26/2022 06:43:29 The value of i is 44
+01/26/2022 06:43:29 The value of i is 45
+01/26/2022 06:43:29 The value of i is 46
+01/26/2022 06:43:29 The value of i is 47
+01/26/2022 06:43:29 The value of i is 48
+01/26/2022 06:43:29 The value of i is 49
+01/26/2022 06:43:29 The value of i is 50
+01/26/2022 06:43:29 The value of i is 51
+01/26/2022 06:43:29 The value of i is 52
+01/26/2022 06:43:29 The value of i is 53
+01/26/2022 06:43:29 The value of i is 54
+01/26/2022 06:43:29 The value of i is 55
+01/26/2022 06:43:29 We caught this exception in the Index Get call
+System.Exception: This is our demo exception
+   at SerilogDemo.Pages.IndexModel.OnGet() in C:\work\proj\Serilog_TC\SerilogDemoApp\SerilogDemo\Pages\Index.cshtml.cs:line 33
+01/26/2022 06:43:29 HTTP "GET" "/" responded 200 in 957.5466 ms
+01/26/2022 06:43:44 HTTP "GET" "/Privacy" responded 200 in 37.6194 ms
+01/26/2022 06:43:46 You requested the index page
+01/26/2022 06:43:46 The value of i is 0
+01/26/2022 06:43:46 The value of i is 1
+01/26/2022 06:43:46 The value of i is 2
+01/26/2022 06:43:46 The value of i is 3
+01/26/2022 06:43:46 The value of i is 4
+01/26/2022 06:43:46 The value of i is 5
+01/26/2022 06:43:46 The value of i is 6
+01/26/2022 06:43:46 The value of i is 7
+01/26/2022 06:43:46 The value of i is 8
+01/26/2022 06:43:46 The value of i is 9
+01/26/2022 06:43:46 The value of i is 10
+01/26/2022 06:43:46 The value of i is 11
+01/26/2022 06:43:46 The value of i is 12
+01/26/2022 06:43:46 The value of i is 13
+01/26/2022 06:43:46 The value of i is 14
+01/26/2022 06:43:46 The value of i is 15
+01/26/2022 06:43:46 The value of i is 16
+01/26/2022 06:43:46 The value of i is 17
+01/26/2022 06:43:46 The value of i is 18
+01/26/2022 06:43:46 The value of i is 19
+01/26/2022 06:43:46 The value of i is 20
+01/26/2022 06:43:46 The value of i is 21
+01/26/2022 06:43:46 The value of i is 22
+01/26/2022 06:43:46 The value of i is 23
+01/26/2022 06:43:46 The value of i is 24
+01/26/2022 06:43:46 The value of i is 25
+01/26/2022 06:43:46 The value of i is 26
+01/26/2022 06:43:46 The value of i is 27
+01/26/2022 06:43:46 The value of i is 28
+01/26/2022 06:43:46 The value of i is 29
+01/26/2022 06:43:46 The value of i is 30
+01/26/2022 06:43:46 The value of i is 31
+01/26/2022 06:43:46 The value of i is 32
+01/26/2022 06:43:46 The value of i is 33
+01/26/2022 06:43:46 The value of i is 34
+01/26/2022 06:43:46 The value of i is 35
+01/26/2022 06:43:46 The value of i is 36
+01/26/2022 06:43:46 The value of i is 37
+01/26/2022 06:43:46 The value of i is 38
+01/26/2022 06:43:46 The value of i is 39
+01/26/2022 06:43:46 The value of i is 40
+01/26/2022 06:43:46 The value of i is 41
+01/26/2022 06:43:46 The value of i is 42
+01/26/2022 06:43:46 The value of i is 43
+01/26/2022 06:43:46 The value of i is 44
+01/26/2022 06:43:46 The value of i is 45
+01/26/2022 06:43:46 The value of i is 46
+01/26/2022 06:43:46 The value of i is 47
+01/26/2022 06:43:46 The value of i is 48
+01/26/2022 06:43:46 The value of i is 49
+01/26/2022 06:43:46 The value of i is 50
+01/26/2022 06:43:46 The value of i is 51
+01/26/2022 06:43:46 The value of i is 52
+01/26/2022 06:43:46 The value of i is 53
+01/26/2022 06:43:46 The value of i is 54
+01/26/2022 06:43:46 The value of i is 55
+01/26/2022 06:43:46 We caught this exception in the Index Get call
+System.Exception: This is our demo exception
+   at SerilogDemo.Pages.IndexModel.OnGet() in C:\work\proj\Serilog_TC\SerilogDemoApp\SerilogDemo\Pages\Index.cshtml.cs:line 33
+01/26/2022 06:43:46 HTTP "GET" "/" responded 200 in 241.0633 ms
+01/26/2022 12:32:39 Application starting up
+01/26/2022 12:32:53 You requested the index page
+01/26/2022 12:32:53 The value of i is 0
+01/26/2022 12:32:53 The value of i is 1
+01/26/2022 12:32:53 The value of i is 2
+01/26/2022 12:32:53 The value of i is 3
+01/26/2022 12:32:53 The value of i is 4
+01/26/2022 12:32:53 The value of i is 5
+01/26/2022 12:32:53 The value of i is 6
+01/26/2022 12:32:53 The value of i is 7
+01/26/2022 12:32:53 The value of i is 8
+01/26/2022 12:32:53 The value of i is 9
+01/26/2022 12:32:53 The value of i is 10
+01/26/2022 12:32:53 The value of i is 11
+01/26/2022 12:32:53 The value of i is 12
+01/26/2022 12:32:53 The value of i is 13
+01/26/2022 12:32:53 The value of i is 14
+01/26/2022 12:32:53 The value of i is 15
+01/26/2022 12:32:53 The value of i is 16
+01/26/2022 12:32:53 The value of i is 17
+01/26/2022 12:32:53 The value of i is 18
+01/26/2022 12:32:53 The value of i is 19
+01/26/2022 12:32:53 The value of i is 20
+01/26/2022 12:32:53 The value of i is 21
+01/26/2022 12:32:53 The value of i is 22
+01/26/2022 12:32:54 The value of i is 23
+01/26/2022 12:32:54 The value of i is 24
+01/26/2022 12:32:54 The value of i is 25
+01/26/2022 12:32:54 The value of i is 26
+01/26/2022 12:32:54 The value of i is 27
+01/26/2022 12:32:54 The value of i is 28
+01/26/2022 12:32:54 The value of i is 29
+01/26/2022 12:32:54 The value of i is 30
+01/26/2022 12:32:54 The value of i is 31
+01/26/2022 12:32:54 The value of i is 32
+01/26/2022 12:32:54 The value of i is 33
+01/26/2022 12:32:54 The value of i is 34
+01/26/2022 12:32:54 The value of i is 35
+01/26/2022 12:32:54 The value of i is 36
+01/26/2022 12:32:54 The value of i is 37
+01/26/2022 12:32:54 The value of i is 38
+01/26/2022 12:32:54 The value of i is 39
+01/26/2022 12:32:54 The value of i is 40
+01/26/2022 12:32:54 The value of i is 41
+01/26/2022 12:32:54 The value of i is 42
+01/26/2022 12:32:54 The value of i is 43
+01/26/2022 12:32:54 The value of i is 44
+01/26/2022 12:32:54 The value of i is 45
+01/26/2022 12:32:54 The value of i is 46
+01/26/2022 12:32:54 The value of i is 47
+01/26/2022 12:32:54 The value of i is 48
+01/26/2022 12:32:54 The value of i is 49
+01/26/2022 12:32:54 The value of i is 50
+01/26/2022 12:32:54 The value of i is 51
+01/26/2022 12:32:54 The value of i is 52
+01/26/2022 12:32:54 The value of i is 53
+01/26/2022 12:32:54 The value of i is 54
+01/26/2022 12:32:54 The value of i is 55
+01/26/2022 12:32:54 We caught this exception in the Index Get call
+System.Exception: This is our demo exception
+   at SerilogDemo.Pages.IndexModel.OnGet() in C:\work\proj\Serilog_TC\SerilogDemoApp\SerilogDemo\Pages\Index.cshtml.cs:line 33
+01/26/2022 12:32:55 HTTP "GET" "/" responded 200 in 2443.1604 ms
+01/30/2022 14:11:48 Application starting up
+01/30/2022 14:11:53 You requested the index page
+01/30/2022 14:11:53 The value of i is 0
+01/30/2022 14:11:53 The value of i is 1
+01/30/2022 14:11:53 The value of i is 2
+01/30/2022 14:11:53 The value of i is 3
+01/30/2022 14:11:53 The value of i is 4
+01/30/2022 14:11:53 The value of i is 5
+01/30/2022 14:11:53 The value of i is 6
+01/30/2022 14:11:53 The value of i is 7
+01/30/2022 14:11:53 The value of i is 8
+01/30/2022 14:11:53 The value of i is 9
+01/30/2022 14:11:53 The value of i is 10
+01/30/2022 14:11:53 The value of i is 11
+01/30/2022 14:11:53 The value of i is 12
+01/30/2022 14:11:53 The value of i is 13
+01/30/2022 14:11:53 The value of i is 14
+01/30/2022 14:11:53 The value of i is 15
+01/30/2022 14:11:53 The value of i is 16
+01/30/2022 14:11:53 The value of i is 17
+01/30/2022 14:11:53 The value of i is 18
+01/30/2022 14:11:53 The value of i is 19
+01/30/2022 14:11:53 The value of i is 20
+01/30/2022 14:11:53 The value of i is 21
+01/30/2022 14:11:53 The value of i is 22
+01/30/2022 14:11:53 The value of i is 23
+01/30/2022 14:11:53 The value of i is 24
+01/30/2022 14:11:53 The value of i is 25
+01/30/2022 14:11:53 The value of i is 26
+01/30/2022 14:11:53 The value of i is 27
+01/30/2022 14:11:53 The value of i is 28
+01/30/2022 14:11:53 The value of i is 29
+01/30/2022 14:11:53 The value of i is 30
+01/30/2022 14:11:53 The value of i is 31
+01/30/2022 14:11:53 The value of i is 32
+01/30/2022 14:11:53 The value of i is 33
+01/30/2022 14:11:53 The value of i is 34
+01/30/2022 14:11:53 The value of i is 35
+01/30/2022 14:11:53 The value of i is 36
+01/30/2022 14:11:53 The value of i is 37
+01/30/2022 14:11:53 The value of i is 38
+01/30/2022 14:11:53 The value of i is 39
+01/30/2022 14:11:53 The value of i is 40
+01/30/2022 14:11:53 The value of i is 41
+01/30/2022 14:11:53 The value of i is 42
+01/30/2022 14:11:53 The value of i is 43
+01/30/2022 14:11:53 The value of i is 44
+01/30/2022 14:11:53 The value of i is 45
+01/30/2022 14:11:53 The value of i is 46
+01/30/2022 14:11:53 The value of i is 47
+01/30/2022 14:11:53 The value of i is 48
+01/30/2022 14:11:53 The value of i is 49
+01/30/2022 14:11:53 The value of i is 50
+01/30/2022 14:11:53 The value of i is 51
+01/30/2022 14:11:53 The value of i is 52
+01/30/2022 14:11:53 The value of i is 53
+01/30/2022 14:11:53 The value of i is 54
+01/30/2022 14:11:53 The value of i is 55
+01/30/2022 14:11:53 We caught this exception in the Index Get call
+System.Exception: This is our demo exception
+   at SerilogDemo.Pages.IndexModel.OnGet() in C:\work\proj\Serilog_TC\SerilogDemoApp\SerilogDemo\Pages\Index.cshtml.cs:line 33
+01/30/2022 14:11:54 HTTP "GET" "/" responded 200 in 1422.2080 ms
+01/30/2022 14:14:13 Application starting up
+01/30/2022 14:14:17 You requested the index page
+01/30/2022 14:14:17 The value of i is 0
+01/30/2022 14:14:17 The value of i is 1
+01/30/2022 14:14:17 The value of i is 2
+01/30/2022 14:14:17 The value of i is 3
+01/30/2022 14:14:17 The value of i is 4
+01/30/2022 14:14:17 The value of i is 5
+01/30/2022 14:14:17 The value of i is 6
+01/30/2022 14:14:17 The value of i is 7
+01/30/2022 14:14:17 The value of i is 8
+01/30/2022 14:14:17 The value of i is 9
+01/30/2022 14:14:17 The value of i is 10
+01/30/2022 14:14:17 The value of i is 11
+01/30/2022 14:14:17 The value of i is 12
+01/30/2022 14:14:17 The value of i is 13
+01/30/2022 14:14:17 The value of i is 14
+01/30/2022 14:14:17 The value of i is 15
+01/30/2022 14:14:17 The value of i is 16
+01/30/2022 14:14:17 The value of i is 17
+01/30/2022 14:14:17 The value of i is 18
+01/30/2022 14:14:17 The value of i is 19
+01/30/2022 14:14:17 The value of i is 20
+01/30/2022 14:14:17 The value of i is 21
+01/30/2022 14:14:17 The value of i is 22
+01/30/2022 14:14:17 The value of i is 23
+01/30/2022 14:14:17 The value of i is 24
+01/30/2022 14:14:17 The value of i is 25
+01/30/2022 14:14:17 The value of i is 26
+01/30/2022 14:14:17 The value of i is 27
+01/30/2022 14:14:17 The value of i is 28
+01/30/2022 14:14:17 The value of i is 29
+01/30/2022 14:14:17 The value of i is 30
+01/30/2022 14:14:17 The value of i is 31
+01/30/2022 14:14:17 The value of i is 32
+01/30/2022 14:14:17 The value of i is 33
+01/30/2022 14:14:17 The value of i is 34
+01/30/2022 14:14:17 The value of i is 35
+01/30/2022 14:14:17 The value of i is 36
+01/30/2022 14:14:17 The value of i is 37
+01/30/2022 14:14:17 The value of i is 38
+01/30/2022 14:14:17 The value of i is 39
+01/30/2022 14:14:17 The value of i is 40
+01/30/2022 14:14:17 The value of i is 41
+01/30/2022 14:14:17 The value of i is 42
+01/30/2022 14:14:17 The value of i is 43
+01/30/2022 14:14:17 The value of i is 44
+01/30/2022 14:14:17 The value of i is 45
+01/30/2022 14:14:17 The value of i is 46
+01/30/2022 14:14:17 The value of i is 47
+01/30/2022 14:14:17 The value of i is 48
+01/30/2022 14:14:17 The value of i is 49
+01/30/2022 14:14:17 The value of i is 50
+01/30/2022 14:14:17 The value of i is 51
+01/30/2022 14:14:17 The value of i is 52
+01/30/2022 14:14:17 The value of i is 53
+01/30/2022 14:14:17 The value of i is 54
+01/30/2022 14:14:17 The value of i is 55
+01/30/2022 14:14:17 We caught this exception in the Index Get call
+System.Exception: This is our demo exception
+   at SerilogDemo.Pages.IndexModel.OnGet() in C:\work\proj\Serilog_TC\SerilogDemoApp\SerilogDemo\Pages\Index.cshtml.cs:line 33
+01/30/2022 14:14:18 HTTP "GET" "/" responded 200 in 938.8234 ms
